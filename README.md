@@ -8,4 +8,5 @@ L'exercice (fait avec l'aide d'une vidéo de Grafikart) consistait à coder une 
 <br/>
 
 ![Liste sans le filtre](https://github.com/Anais-DZ/TP_liste/blob/main/Liste%20avec%20tous%20les%20produits.png)
+![Liste avec le filtre](https://github.com/Anais-DZ/TP_liste/blob/main/Liste%20avec%20les%20produits%20hors%20stock.png)
 
